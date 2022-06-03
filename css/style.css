@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(11, 3, 29);
+    color: white;
+}
+
+section {
+    text-align: center;
+}
+
+
+.game-container {
+    height: 300px;
+    width: 300px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid yellow;
+    cursor: pointer;
+    font-size: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.playerX {
+    color: rgb(15, 207, 89);
+}
+
+.playerO {
+    color: rgb(27, 60, 228);
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.announcer {
+    font-size: 30px;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+button {
+    width: 250px;
+    height: 50px;
+    margin-top: 20px;
+    border: none;
+
+    background: rgb(11, 3, 29);
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+
+    letter-spacing: 2px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background: red;
+    color: rgb(11, 3, 29);
+    box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+}
+
+
+
+
+
+
+
+
