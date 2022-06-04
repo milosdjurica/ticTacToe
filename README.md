@@ -153,11 +153,17 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 
-LinkedIn - [Miloš Đurica](https://www.linkedin.com/in/milosdjurica/) 
-
-Twitter - [@djurica_milos](https://twitter.com/djurica_milos) 
-
-Project Link: [https://github.com/milosdjurica/ticTacToe](https://github.com/milosdjurica/ticTacToe)
+<div align="center">
+<a href="https://twitter.com/djurica_milos" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
+</a>
+<a href="https://github.com/milosdjurica" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+</a>
+<a href="https://linkedin.com/in/milosdjurica" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin  />
+</a>  
+</div>  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
