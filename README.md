@@ -58,8 +58,7 @@
 
 <div align="center">
   
-![Product Name Screen Shot](https://user-images.githubusercontent.com/98367287/171966825-b2a0ddcf-df2a-47e8-897e-4a0baa1bfb10.png)
-
+<img src="https://user-images.githubusercontent.com/98367287/171966825-b2a0ddcf-df2a-47e8-897e-4a0baa1bfb10.png" alt="Screenshot" height="500"/>
 </div>
 
 This is just a simple project that i made when i started learning Javascript.
